@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/pro01_jdbc/pro01_jdbc.iml" filepath="$PROJECT_DIR$/pro01_jdbc/pro01_jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro02_fruit1.0_jdbc/pro02_fruit1.0_jdbc.iml" filepath="$PROJECT_DIR$/pro02_fruit1.0_jdbc/pro02_fruit1.0_jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro02_fruit1.1_jdbc/pro02_fruit1.1_jdbc.iml" filepath="$PROJECT_DIR$/pro02_fruit1.1_jdbc/pro02_fruit1.1_jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro02_fruit1.2_jdbc/pro02_fruit1.2_jdbc.iml" filepath="$PROJECT_DIR$/pro02_fruit1.2_jdbc/pro02_fruit1.2_jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro02_fruit1.3_jdbc/pro02_fruit1.3_jdbc.iml" filepath="$PROJECT_DIR$/pro02_fruit1.3_jdbc/pro02_fruit1.3_jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro06-jdbc-batch-datasource/pro06-jdbc-batch-datasource.iml" filepath="$PROJECT_DIR$/pro06-jdbc-batch-datasource/pro06-jdbc-batch-datasource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workspace_jdbc.iml" filepath="$PROJECT_DIR$/workspace_jdbc.iml" />
+    </modules>
+  </component>
+</project>
