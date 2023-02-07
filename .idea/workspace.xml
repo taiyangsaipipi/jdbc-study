@@ -122,6 +122,7 @@
     <option name="width" value="1393" />
     <option name="height" value="1399" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -168,7 +169,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1675696267086" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1675696278383" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -300,16 +301,15 @@
       <workItem from="1675557973535" duration="8252000" />
       <workItem from="1675586623669" duration="5660000" />
       <workItem from="1675596488295" duration="5152000" />
-      <workItem from="1675684824632" duration="6078000" />
+      <workItem from="1675684824632" duration="6671000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62891000" />
+    <option name="totallyTimeSpent" value="63484000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2054" y="0" width="1393" height="1399" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.216054" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
